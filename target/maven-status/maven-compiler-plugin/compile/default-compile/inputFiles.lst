@@ -1,2 +1,10 @@
+/Users/samxspencer/Library/Mobile Documents/com~apple~CloudDocs/Coding/apextrading-engine/src/main/java/com/apextrade/MatchingEngineTest.java
 /Users/samxspencer/Library/Mobile Documents/com~apple~CloudDocs/Coding/apextrading-engine/src/main/java/com/apextrade/TestConnection.java
 /Users/samxspencer/Library/Mobile Documents/com~apple~CloudDocs/Coding/apextrading-engine/src/main/java/com/apextrade/infrastructure/DatabaseConfig.java
+/Users/samxspencer/Library/Mobile Documents/com~apple~CloudDocs/Coding/apextrading-engine/src/main/java/com/apextrade/model/Market.java
+/Users/samxspencer/Library/Mobile Documents/com~apple~CloudDocs/Coding/apextrading-engine/src/main/java/com/apextrade/model/Order.java
+/Users/samxspencer/Library/Mobile Documents/com~apple~CloudDocs/Coding/apextrading-engine/src/main/java/com/apextrade/model/OrderSide.java
+/Users/samxspencer/Library/Mobile Documents/com~apple~CloudDocs/Coding/apextrading-engine/src/main/java/com/apextrade/model/OrderStatus.java
+/Users/samxspencer/Library/Mobile Documents/com~apple~CloudDocs/Coding/apextrading-engine/src/main/java/com/apextrade/model/OrderType.java
+/Users/samxspencer/Library/Mobile Documents/com~apple~CloudDocs/Coding/apextrading-engine/src/main/java/com/apextrade/model/TimeInForce.java
+/Users/samxspencer/Library/Mobile Documents/com~apple~CloudDocs/Coding/apextrading-engine/src/main/java/com/apextrade/orderbook/OrderBook.java

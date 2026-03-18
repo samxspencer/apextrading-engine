@@ -1,2 +1,10 @@
+com/apextrade/model/TimeInForce.class
 com/apextrade/TestConnection.class
+com/apextrade/model/Order.class
+com/apextrade/MatchingEngineTest.class
+com/apextrade/model/OrderSide.class
+com/apextrade/model/Market.class
+com/apextrade/model/OrderType.class
+com/apextrade/model/OrderStatus.class
+com/apextrade/orderbook/OrderBook.class
 com/apextrade/infrastructure/DatabaseConfig.class
